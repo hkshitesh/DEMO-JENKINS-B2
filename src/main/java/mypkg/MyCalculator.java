@@ -17,6 +17,10 @@ public class MyCalculator {
 	 {
 		 return a/b;
 	 }
+	 public void gretting()
+	 {
+		 System.out.println("Hello SRE");
+	 }
 
 	public static void main(String[] args) {
 		
