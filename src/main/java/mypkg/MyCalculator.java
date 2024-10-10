@@ -20,6 +20,7 @@ public class MyCalculator {
 	 public void gretting()
 	 {
 		 System.out.println("Hello SRE");
+		 System.out.println("Hello Jenkins");
 	 }
 
 	public static void main(String[] args) {
